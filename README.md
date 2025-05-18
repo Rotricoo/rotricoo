@@ -1,40 +1,67 @@
-<h1 align="left">Hey there! I'm Rodrigo</h1>
-<h3 align="left">Graphic Designer | Front-end developer in construction</h3>
+<h1 align="left">Hey there! I'm Rodrigo 👋</h1>
+<h3 align="left">🎨 Graphic Designer | 💻 Aspiring Front-End Developer</h3>
+
 <hr>
 
-<p align="left">I’m a graduate in graphic design and marketing, and I recently discovered a big passion for seeing text, numbers, maths equations, and functions become such nice designs. You can call me Rod or Rotrico, up to you!</p>
+<p align="left">
+I'm a Brazilian graphic designer and marketing student based in Australia, currently transitioning into the world of web development. With over 4 years of experience creating visually engaging content, I've recently fallen in love with coding — especially seeing how lines of HTML, CSS, and JavaScript can come together to build beautiful, interactive experiences.
+</p>
 
-<h2 align="left">I code with</h2>
+<p align="left">
+You can call me Rod or Rotrico — up to you! I'm passionate about design, branding, user experience, and bringing creative ideas to life through code.
+</p>
+
+---
+
+<h2 align="left">🛠️ I work with</h2>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="Photoshop" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="Illustrator" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="After Effects" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40" alt="xd logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40" alt="Adobe XD" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
 </div>
 
-###
+---
 
-<br clear="both">
+<h2 align="left">🚧 Featured Projects</h2>
 
-<div align="center" gap="10px">
-  <img src="https://github-readme-stats.vercel.app/api?username=rotricoo&hide_title=true&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rotricoo&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="130" alt="languages graph"  />
+<p align="left">I'm currently working on a few exciting projects — they'll be live soon!</p>
+
+---
+
+<h2 align="left">🌐 Portfolio</h2>
+<p align="left">My portfolio is also under construction. Stay tuned! 🚀</p>
+
+---
+
+<h2 align="left">📬 Connect with me</h2>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/rotrico/" target="_blank">💼 LinkedIn</a> &nbsp;|&nbsp;
+  <a href="https://www.instagram.com/rotrico/" target="_blank">📸 Instagram</a>
+</p>
+
+---
+
+<h2 align="left">📈 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rotricoo&hide_title=true&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rotricoo&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="130" alt="Top Languages" />
 </div>
-
-###
