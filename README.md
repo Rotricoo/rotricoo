@@ -12,10 +12,9 @@ You can call me Rod or Rotrico — up to you! I'm passionate about design, brand
 </p>
 
 ---
-
 <h2 align="left">🛠️ I work with</h2>
 
-<div align="left">
+<div style="display: flex; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="Photoshop" style="margin-right:10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="Illustrator" style="margin-right:10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="After Effects" style="margin-right:10px;" />
