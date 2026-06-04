@@ -23,9 +23,8 @@ I’m currently looking to grow in the tech industry through:
 ---
 
 Here are two of my main projects:
-
-- [Mathflix](https://github.com/rotricoo/mathflix)
-- [Availability Table](https://github.com/rotricoo/availability-table)
+- [MathFlix](https://github.com/rotricoo/mathflix) – Netflix-inspired UI built with HTML, CSS and JavaScript
+- [Word Master](https://github.com/Rotricoo/Word-Master) – Word guessing game built with JavaScript logic and DOM manipulation
 
 Check out my portfolio on [Behance](https://www.behance.net/rotrico)
 
