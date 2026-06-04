@@ -1,24 +1,26 @@
-# Hey there! I'm Rodrigo 👋
+# Hi, you can call me Rod 👋
 
-### Graphic Designer | Aspiring Front-End Developer
+### I enjoy building things and turning creativity into practical projects as I transition from Graphic Design into Front-End Development.
+
+I recently completed my Diploma of Marketing and Communication, and I’m now pursuing a Bachelor of Information Technology in Australia at <strong>Victoria University</strong>. This marks a new chapter where I’m combining creativity, design thinking, and technology.
+
+I’m currently focused on building my skills in Front-End Development, learning and applying:
+
+* HTML, CSS and JavaScript
+* SCSS and BEM methodology for scalable CSS architecture
+* Responsive and mobile-first design principles
+* Git & GitHub for version control
+
+I’ve also started exploring React, working with components and learning how modern front-end applications are structured.
+
+Before moving into tech, I worked as a Graphic Designer, creating digital content, branding, and social media visuals for different clients and agencies. This background is now a strong foundation for my transition into development, especially in UI/UX, layout, typography, and visual hierarchy.
+
+I’m currently looking to grow in the tech industry through:
+* Front-End Developer internships
+* Junior Web Developer roles
+* UI-focused development opportunities
 
 ---
-
-I'm a Brazilian graphic designer and marketing student based in Australia, currently transitioning into the world of web development. With over 4 years of experience creating visually engaging content and designing for social media, I've recently fallen in love with coding — especially seeing how lines of HTML, CSS, and JavaScript can come together to build beautiful, interactive experiences.
-
-Now, I'm applying this creative background in the tech field, combining design and front-end development to bring innovative ideas to life. You can call me Rod or Rotrico — up to you! I'm passionate about design, branding, user experience, and bringing creative ideas to life through code.
-
----
-
-## 🛠️ I work with
-
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-CF96FD?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=393665)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 Here are two of my main projects:
 
@@ -28,10 +30,7 @@ Here are two of my main projects:
 Check out my portfolio on [Behance](https://www.behance.net/rotrico)
 
 ## Connect with me
-
 [💼 LinkedIn](https://www.linkedin.com/in/rotrico/) | [📸 Instagram](https://www.instagram.com/rotrico/)
-
----
 
 ## GitHub Stats
 
@@ -39,3 +38,4 @@ Check out my portfolio on [Behance](https://www.behance.net/rotrico)
 <img src="https://github-readme-stats.vercel.app/api?username=rotricoo&hide_title=true&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rotricoo&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="130" alt="Top Languages" />
 </div>
+
